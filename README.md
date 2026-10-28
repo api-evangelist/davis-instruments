@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Davis Instruments is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://davisinstruments.com/
+Davis Instruments designs and manufactures personal and professional‑grade weather stations, marine instruments, and air‑quality monitors. The company provides high‑quality weather instruments for accurate data collection, offering reliable weather stations and sensors for hobbyists, researchers, and commercial users. Their product line includes the Vantage Vue, Vantage Pro2, and Vantage Pro2 Plus weather stations, as well as marine barometers and air‑quality monitoring devices.
+
+**Areas:** Company · Weather · Instruments · Sensors · Environmental
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://davisinstruments.com/)
+- [Support](https://www.davisinstruments.com/pages/contact-us)
+- [Blog](https://www.davisinstruments.com/blogs/newsletter)
+- [Terms of service](https://www.davisinstruments.com/policies/terms-of-service)
+- [Privacy policy](https://www.davisinstruments.com/policies/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/davis-instruments/](https://apis.io/providers/davis-instruments/).
